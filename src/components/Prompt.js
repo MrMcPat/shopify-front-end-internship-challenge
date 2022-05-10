@@ -29,7 +29,6 @@ function Prompt({ handleResponse }) {
     }
   }
 
-  console.log(parseInt(slider) / 10);
   return (
     <div className="container">
       <h1>Fun with AI</h1>

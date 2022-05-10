@@ -13,7 +13,7 @@ function Prompt({ handleResponse }) {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${process.env.REACT_APP_OPENAI_API_KEY}`,
+          Authorization: `Bearer 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`,
         },
         body: JSON.stringify({
           prompt: input,

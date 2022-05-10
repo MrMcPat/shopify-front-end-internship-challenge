@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopify-front-end-internship-challenge/static/css/main.f81a1ec2.css",
+    "main.js": "/shopify-front-end-internship-challenge/static/js/main.aa877977.js",
+    "static/js/787.b39a0aa9.chunk.js": "/shopify-front-end-internship-challenge/static/js/787.b39a0aa9.chunk.js",
+    "index.html": "/shopify-front-end-internship-challenge/index.html",
+    "main.f81a1ec2.css.map": "/shopify-front-end-internship-challenge/static/css/main.f81a1ec2.css.map",
+    "main.aa877977.js.map": "/shopify-front-end-internship-challenge/static/js/main.aa877977.js.map",
+    "787.b39a0aa9.chunk.js.map": "/shopify-front-end-internship-challenge/static/js/787.b39a0aa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f81a1ec2.css",
+    "static/js/main.aa877977.js"
+  ]
+}
